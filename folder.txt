@@ -1,0 +1,18 @@
+New Repo
+
+
+open Git bash
+
+
+cd "Path of Folder/files"
+
+
+git init
+
+git remote add origin https://github.com/03343468048/C-Diomand.git
+git 
+add .
+
+git commit -m "first commit"
+
+git push -u origin master
